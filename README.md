@@ -188,7 +188,7 @@ The biggest opportunity lies in improving the **Product → Cart** step and fixi
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 To run this analysis on your local machine, please follow these steps:
 
