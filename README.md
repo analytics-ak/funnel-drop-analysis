@@ -190,7 +190,7 @@ To run this analysis on your local machine, please follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/analytics-ak/funnel-drop-analysis.git](https://github.com/analytics-ak/funnel-drop-analysis.git)
+git clone https://github.com/analytics-ak/funnel-drop-analysis.git
 cd funnel-drop-analysis
 
 # 2. Install dependencies
