@@ -46,7 +46,7 @@ This section highlights the key analyses performed to understand how users behav
 ### Conversion Rate by Month
 The conversion rate isn’t constant throughout the year — it changes with time and seasonal trends. In this analysis, **March** recorded the **highest conversion rate (around 41%)**, while **February** showed the **lowest (about 37%)**. This pattern suggests that user intent and purchase behaviour may be influenced by **seasonal promotions, marketing campaigns, or product launches**.
 
-<img src="monthly_conversion_rate.png" alt="Monthly Conversion Rate (Seasonality)" width="800">
+<img src="Conversion Rate by Month.png" alt="Monthly Conversion Rate (Seasonality)" width="800">
 
 *Insight: Conversions show strong seasonality, peaking in March at over 41.5% and hitting a low in February at 37.1%.*
 
@@ -78,35 +78,35 @@ Users who complete a purchase spend **much more time on the site** — around **
 ### Conversion Rate by Country
 **France** has the highest conversion rate, meaning people there are more likely to buy after visiting the site. Countries like the **USA**, **India**, and the **UK** are not far behind — all show similar buying patterns.
 
-<img src="conversion_by_country.png" alt="Top 10 Countries by Conversion Rate" width="800">
+<img src="Conversion Rate by Country.png" alt="Top 10 Countries by Conversion Rate" width="800">
 
 *Insight: France leads with the highest conversion rate (over 40%), while other top countries show a tight, competitive performance around 38-40%.*
 
 ### Conversion by Items in Cart
 Users who add **more items to their cart** are **more likely to complete a purchase** than those with just one or two items. This shows that higher interest or stronger buying intent often leads to a successful checkout.
 
-<img src="conversion_by_items.png" alt="Conversion Rate vs. Number of Items in Cart" width="800">
+<img src="Conversion by Items in Cart.png" alt="Conversion Rate vs. Number of Items in Cart" width="800">
 
 *Insight: After an initial drop for 1-2 items, the conversion rate steadily **increases for carts with 3, 4, or 5 items**, suggesting users making larger purchases are more committed.*
 
 ### Conversion by Referral Source
 Visitors coming from **Google** and **Email campaigns** convert slightly better than those from other traffic sources. This means users who find the site through search or email are usually more interested and ready to buy. It highlights the value of strong SEO and well-targeted email marketing.
 
-<img src="conversion_by_referral.png" alt="Conversion Rate by Referral Source" width="800">
+<img src="Conversion by Referral Source.png" alt="Conversion Rate by Referral Source" width="800">
 
 *Insight: All referral sources perform at a similar, healthy rate, with **Google (~42%)** and **Email (~39%)** traffic converting slightly better than other channels.*
 
 ### Time on Page by Buyers vs Non-Buyers
 Both **buyers and non-buyers spend nearly the same amount of time** on each page. This means that just keeping users longer on the site doesn’t guarantee a sale — what really matters is **the quality and clarity of the content**.
 
-<img src="time_on_page.png" alt="Average Time on Page: Buyers vs. Non-Buyers" width="800">
+<img src="Average Time on Page.png" alt="Average Time on Page: Buyers vs. Non-Buyers" width="800">
 
 *Insight: Time on page is nearly identical for buyers and non-buyers, suggesting **page content or UX design**, not engagement time, is the main driver for conversion.*
 
 ### Conversion by Device Type
 **Desktop and tablet users** tend to buy more often than **mobile users**. This shows that the mobile shopping experience may have some issues — like slower loading or smaller buttons — that affect conversions.
 
-<img src="conversion_by_device.png" alt="Conversion by Device Type and Referral Source" width="800">
+<img src="Conversion by Device Type.png" alt="Conversion by Device Type and Referral Source" width="800">
 
 *Insight: **Desktop and Tablet** devices consistently outperform **Mobile** in conversion rates, highlighting a potential friction point in the mobile user experience.*
 
