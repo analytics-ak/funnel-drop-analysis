@@ -193,4 +193,4 @@ The biggest opportunity lies in improving the **Product → Cart** step and fixi
 <br>
 
 ## Author: Ashish Kumar Dongre — Senior Data Analyst
-I love working with data and finding simple insights that help businesses grow. [cite_start]Skilled in **Python, SQL, Power BI, and Excel**, and experienced in turning raw data into clear, useful reports. [cite: 127, 128]
+I love working with data and finding simple insights that help businesses grow. Skilled in **Python, SQL, Power BI, and Excel**, and experienced in turning raw data into clear, useful reports.
