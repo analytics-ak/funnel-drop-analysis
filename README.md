@@ -143,41 +143,41 @@ Most users follow a common path — **Home → Product Page → Cart**. However,
 
 ---
 
-## 💬 Quick Insights
+## Quick Insights
 * The biggest drop happens between the **Product Page and Cart**, with nearly **60% of users leaving** at this step.
 * **Mobile users** show a **slightly lower conversion rate** compared to desktop and tablet.
 * **Email traffic** brings in the **most engaged users**, converting better than social or direct visitors.
 * **Cart abandonment** is slightly higher for **mobile and social media users**, showing they are less ready to buy or face friction during checkout.
 * The **average session time** looks good overall, but improving load speed and simplifying navigation could make the buying process even smoother.
 
-## 💡 Business Use Case
+## Business Use Case
 This analysis helps **product and marketing teams** understand which parts of the funnel need the most attention. It shows where users drop off, which traffic sources bring real buyers, and what design or experience changes can make the journey smoother. By using these insights, teams can make focused improvements that directly increase **conversions and revenue**.
 
-## 🌍 Real-World Applications
+## Real-World Applications
 The insights from this project can be used in many practical ways, such as:
 * **Marketing Optimisation:** Identify which channels bring the most valuable traffic and focus efforts there.
 * **UX Improvement:** Spot pain points in the user journey and make design changes that keep users moving forward.
 * **Product Strategy:** Use behaviour data to plan better product placements, offers, or features.
 * **Revenue Forecasting:** Estimate how small conversion improvements can lead to big sales growth over time.
 
-## 📈 Revenue Impact Estimation (Assumed Example)
+## Revenue Impact Estimation (Assumed Example)
 This dataset doesn’t include actual revenue, so the numbers below are based on assumptions. If we consider **100,000 monthly sessions**, a **2.5% conversion rate**, and an **average order value (AOV)** of **$75**, then improving the **Product → Cart** step by just **10%** could add around **$18K–$20K in extra sales per month** — nearly **$200K+ per year**. This shows how even small improvements in a single funnel stage can create **big revenue gains** when applied across all users.
 
-## 🚀 Future Improvements
+## Future Improvements
 To make this analysis stronger and more actionable, the next steps could include:
 * Adding real session and revenue data to connect user behaviour with actual financial results.
 * Including demographic segmentation to see how age, location, or interests affect conversion.
 * Use predictive models to identify users likely to drop off before they do.
 * Building a live dashboard for tracking key funnel metrics in real time.
 
-## 🎓 What I Learned
+## What I Learned
 * Learned how to **track and visualise user journeys** across the full e-commerce funnel.
 * Understood how to **spot weak points** using conversion data and metrics.
 * Gained experience in **explaining insights in simple business terms** that anyone can understand.
 * Realized that even a **small percentage increase** in conversion can create a big impact on revenue.
 * Learned how to **turn data into clear actions** that help improve sales and user experience.
 
-## 🧾 Project Summary and Conclusion
+## Project Summary and Conclusion
 This project gave a complete view of how users move through the e-commerce funnel. By analysing each stage, it clearly showed **where users drop off**, **which channels drive quality traffic**, and **what changes can boost conversions**.
 
 The biggest opportunity lies in improving the **Product → Cart** step and fixing **mobile UX issues**, as both directly affect the number of completed purchases. In short, this analysis proves that **data-driven decisions** can turn small optimisations into significant growth — improving user experience, conversions, and overall sales performance.
@@ -192,5 +192,5 @@ The biggest opportunity lies in improving the **Product → Cart** step and fixi
 
 <br>
 
-## 👨‍💻 Author: Ashish Kumar Dongare — Senior Data Analyst
+## Author: Ashish Kumar Dongre — Senior Data Analyst
 I love working with data and finding simple insights that help businesses grow. [cite_start]Skilled in **Python, SQL, Power BI, and Excel**, and experienced in turning raw data into clear, useful reports. [cite: 127, 128]
