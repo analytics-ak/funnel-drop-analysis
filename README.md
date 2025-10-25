@@ -183,6 +183,24 @@ This project gave a complete view of how users move through the e-commerce funne
 The biggest opportunity lies in improving the **Product → Cart** step and fixing **mobile UX issues**, as both directly affect the number of completed purchases. In short, this analysis proves that **data-driven decisions** can turn small optimisations into significant growth — improving user experience, conversions, and overall sales performance.
 
 ---
+
+## 🚀 How to Run the Project
+
+To run this analysis on your local machine, please follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone [https://github.com/analytics-ak/funnel-drop-analysis.git](https://github.com/analytics-ak/funnel-drop-analysis.git)
+cd funnel-drop-analysis
+
+# 2. Install dependencies
+# (It's recommended to use a virtual environment)
+pip install pandas numpy matplotlib seaborn jupyter
+
+# 3. Run the notebook
+jupyter notebook "funnel-drop.ipynb"
+```
+---
 ## Profile & Dataset
 
 * 🔗 **LinkedIn:** [View My Profile](https://www.linkedin.com/in/analytics-ashish/)
