@@ -214,5 +214,5 @@ jupyter notebook "funnel-drop.ipynb"
 
 <br>
 
-## Author: Ashish Kumar Dongre — Senior Data Analyst
+## Author: Ashish Kumar Dongre — Data Analyst
 I love working with data and finding simple insights that help businesses grow. Skilled in **Python (Jupyter, pandas, seaborn, matplotlib)**, and experienced in turning raw data into clear, useful reports.
