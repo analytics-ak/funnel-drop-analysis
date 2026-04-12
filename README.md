@@ -1,8 +1,21 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/analytics-ak/funnel-drop-analysis/blob/main/funnel-drop.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/analytics-ak/funnel-drop-analysis/main)
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/analytics-ak/funnel-drop-analysis/blob/main/funnel-drop.ipynb)
+<div align="center">
 
-# Funnel Drop Analysis — E-Commerce Conversion Study
+# Funnel Drop Analysis
+
+**Python | Pandas | Matplotlib | Seaborn | SciPy**
+
+This project breaks down the online shopping journey step by step to find where users drop off and what causes it.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0)
+![SciPy](https://img.shields.io/badge/SciPy-1.x-8CAAE6?logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+
+</div>
+
+---
 
 ## Project Overview
 This project explores how online shoppers move through an e-commerce sales funnel — from visiting the homepage to completing a purchase. The main goal is to identify **where users drop off**, **why conversions decline**, and **what can be improved** to boost overall revenue.
