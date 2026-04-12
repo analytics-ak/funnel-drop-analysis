@@ -20,10 +20,10 @@ This project breaks down the online shopping journey step by step to find where 
 
 ---
 
-## Project Overview
-Most people who visit an online store leave without buying anything. But **where exactly do they leave?** And more importantly — **why?**
+## Problem Statement
+Most users visit an online store but do not complete a purchase.
 
-This project breaks down the full user journey from landing on the homepage to completing a purchase, step by step. The goal is simple — find the exact point where the biggest drop happens, figure out what's causing it, and suggest what can be done about it.
+The key question is: **At which exact step do users drop off the most, and what causes it?**
 
 ## What This Project Does
 
@@ -66,7 +66,7 @@ Each row represents one step in a user's journey. A single session can have mult
 
 ---
 
-## Key Findings
+## Key Insights (What the Data Shows)
 
 ### 1. The Biggest Problem — Product Page → Cart
 
@@ -153,9 +153,21 @@ Conversion rates are flat across all hours (20–23%) and all days of the week (
 
 ---
 
-## What Should Be Fixed
+## Initial Assumptions vs What the Data Showed
 
-The Product Page is where the funnel breaks. Users are looking at products but not adding them to cart. Here's what could help:
+| Assumption | What I Expected | What Actually Happened |
+|-----------|----------------|----------------------|
+| Most users drop between Product Page and Cart | ✅ True | 60% drop — the biggest in the funnel |
+| Mobile users convert less than Desktop | ❌ False | All devices perform the same (p = 0.98) |
+| More time on page = more likely to buy | ❌ False | Buyers and non-buyers spend the same time on product pages |
+| Social Media traffic converts worse | ❌ False | All sources are similar (p = 0.47) |
+| More items in cart = higher conversion | ⚠️ Partially True | First item matters most, after that it flattens |
+
+---
+
+## Business Recommendations
+
+The Product Page is where the funnel breaks. Users are looking at products but not adding them to the cart. Here's what could help:
 
 - **Make "Add to Cart" more visible** — if users can't find it easily, they won't click it
 - **Improve product images and descriptions** — give people a clear reason to buy
@@ -166,12 +178,18 @@ Small improvements here will have the biggest impact on revenue, because this is
 
 ---
 
+## Final Conclusion  
+
+The main issue is not traffic, device, or checkout. The biggest loss happens when users fail to move from the Product Page to the Cart. Users are interested, but not convinced to act. Improving this step will have the highest impact on conversion and revenue.
+
+---
+
 ## Data Quality Checks Done Before Analysis
 
-This project doesn't just jump into charts. Before any analysis, the data was validated:
+This project doesn't just jump into charts. Before any analysis, the data were validated:
 
 - **No missing values** across all 10 columns
-- **Funnel path validation** — checked all 5,000 sessions to confirm they follow the correct step order (Home → Product → Cart → Checkout → Confirmation). Every single session follows the funnel perfectly, which also confirmed the dataset is synthetic.
+- **Funnel path validation** — checked all 5,000 sessions to confirm they follow the correct step order (Home → Product → Cart → Checkout → Confirmation). Every single session follows the funnel perfectly, which also confirms the dataset is synthetic.
 - **Timestamp conversion** — converted to datetime and sorted by session and time
 
 ---
@@ -180,7 +198,7 @@ This project doesn't just jump into charts. Before any analysis, the data was va
 
 After working with this dataset, I noticed that the numbers across devices, referral sources, and countries are almost the same. In real life, that never happens — mobile users usually behave differently from desktop, and paid traffic converts differently from organic.
 
-This dataset is most likely **synthetically generated**. I called this out in the notebook because recognizing data limitations is just as important as analyzing the data itself.
+This dataset is most likely **synthetically generated**. I called this out in the notebook because recognising data limitations is just as important as analysing the data itself.
 
 That said, the analysis approach, funnel logic, statistical tests, and the way findings are connected — all of that works the same whether the data is real or synthetic.
 
@@ -240,18 +258,6 @@ funnel-drop-analysis/
 
 ---
 
-## Initial Assumptions vs What the Data Showed
-
-| Assumption | What I Expected | What Actually Happened |
-|-----------|----------------|----------------------|
-| Most users drop between Product Page and Cart | ✅ True | 60% drop — the biggest in the funnel |
-| Mobile users convert less than Desktop | ❌ False | All devices perform the same (p = 0.98) |
-| More time on page = more likely to buy | ❌ False | Buyers and non-buyers spend the same time on product pages |
-| Social Media traffic converts worse | ❌ False | All sources are similar (p = 0.47) |
-| More items in cart = higher conversion | ⚠️ Partially True | First item matters most, after that it flattens |
-
----
----
 ## Profile & Dataset
 
 * 🔗 **LinkedIn:** [View My Profile](https://www.linkedin.com/in/analytics-ashish/)
@@ -261,5 +267,10 @@ funnel-drop-analysis/
 
 <br>
 
-## Author: Ashish Kumar Dongre — Data Analyst
-I love working with data and finding simple insights that help businesses grow. Skilled in **Python (Jupyter, pandas, seaborn, matplotlib)**, and experienced in turning raw data into clear, useful reports.
+## Author  
+
+**Ashish Kumar Dongre**  
+Data Analyst  
+
+- Python | Pandas | Data Analysis  
+- Focus: **Business-driven data insights**
