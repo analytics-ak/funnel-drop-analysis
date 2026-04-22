@@ -239,7 +239,7 @@ funnel-drop-analysis/
    ```
 3. Open the notebook
    ```bash
-   jupyter notebook funnel_drop_analysis.ipynb
+   Jupyter Notebook funnel_drop_analysis.ipynb
    ```
 4. Run all cells — charts generate automatically
 
@@ -251,4 +251,4 @@ This analysis shows that conversion is not limited by traffic or checkout — it
 
 **Ashish Kumar Dongre**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/analytics-ashish/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/funnel-drop-analysis/) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
+🔗 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-dongre-742a6217b/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/analytics-ak/funnel-drop-analysis/) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
